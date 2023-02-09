@@ -1,0 +1,7 @@
+export const  BUY_LAPTOP = "BUY_LAPTOP";
+export const BUY_LAPTOP_SUCCESS = "BUY_LAPTOP_SUCCESS";
+export const BUY_MOBILE_SUCCESS = "BUY_MOBILE_SUCCESS";
+export const BUY_MOBILE = "BUY_MOBILE";
+export const FETCH_ALL_USERS = "FETCH_ALL_USERS";
+export const EDIT_USER = "EDIT_USER";
+export const DELETE_USER = "DELETE_USER";
